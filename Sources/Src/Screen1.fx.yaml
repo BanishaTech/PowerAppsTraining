@@ -1,0 +1,15 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Height: =70
+        OnSelect: |-
+            =
+            
+            If(IsBlank(UsuariosdeOffice365.MyProfile().Mail),Launch( "https://login.microsoftonline.com"), Navigate(Screen2, ScreenTransition.CoverRight))
+        Size: =24
+        Text: ="Login"
+        Width: =280
+        X: =176
+        Y: =952
+        ZIndex: =1
+

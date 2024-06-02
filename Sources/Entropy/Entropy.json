@@ -1,0 +1,65 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 5,
+    "Host": 3,
+    "Label1": 7,
+    "Screen1": 4,
+    "Screen2": 6
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "06/02/2024 00:09:37",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "689bf3a2-b642-4a12-9a00-8ee71b3fdbf1": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/9181dd2ac31d445c9b9238a194c846a2\""
+  },
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "UsuariosdeOffice365": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 0,
+    "label": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Host": {},
+    "Label1": {},
+    "Screen1": {},
+    "Screen2": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 0,
+    "Host": 0,
+    "Label1": 1,
+    "Screen1": 0,
+    "Screen2": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1209004,
+    "ControlCount": {
+      "button": 1,
+      "label": 1,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.6589653
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
